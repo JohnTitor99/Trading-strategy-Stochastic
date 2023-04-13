@@ -1,0 +1,2 @@
+                     date    Pair         Open         High          Low        Close       ema_21       ema_50  stochastic  stochastic_ma  stochastic_signal
+2023-04-10 15:00:00+00:00 BTC-USD 28316.855469 28316.855469 28316.855469 28316.855469 28255.847318 28161.107818   66.761715      48.385712                0.0
