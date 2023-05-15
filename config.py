@@ -1,7 +1,7 @@
 # ----- BOT CONFIG -----
 
-TOKEN = '6122912690:AAF95dCPgUdN27uNXSgrN4Fzmo9IU-WtWLo'
-CHAT_ID = 862289283
+# TOKEN = ''
+# CHAT_ID = 
 
 
 
